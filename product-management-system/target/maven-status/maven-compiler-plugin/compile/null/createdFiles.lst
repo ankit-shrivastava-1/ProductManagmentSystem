@@ -1,0 +1,8 @@
+com\productmanagement\com\exception\ExceptionHandler$ErrorResponseBody.class
+com\productmanagement\com\repository\ProductRepository.class
+com\productmanagement\com\service\ProductServiceImpl.class
+com\productmanagement\com\entity\Product.class
+com\productmanagement\com\exception\ProductNotFoundException.class
+com\productmanagement\com\service\ProductService.class
+com\productmanagement\com\exception\ExceptionHandler.class
+org\productmanagement\com\ProductResource.class
